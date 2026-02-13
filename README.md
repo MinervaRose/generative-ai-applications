@@ -124,7 +124,7 @@ Potential improvements include:
 * Physics-informed generative constraints
 
 * These extensions could increase realism while preserving generative stability.
-* 
+  
 ---
 ## Reflection: Autonomous Aerospace Simulation
 

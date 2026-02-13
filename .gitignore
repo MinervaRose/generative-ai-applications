@@ -1,0 +1,19 @@
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data / artifacts (avoid committing datasets)
+content/
+eurosat/
+*.zip
+
+# Model checkpoints (optional: large files)
+# If you want to keep the trained model in GitHub, comment the next line out
+*.pt
